@@ -17,6 +17,7 @@ export interface SiteConfig {
   youtube?: string
   zhihu?: string
   telegram?: string
+  instagram?: string
   mastodon?: string;
 
   defaultPageIcon?: string | null
